@@ -1,7 +1,7 @@
 # Solar-farm-inspection
 Autonomous inspection of a simulated solar power plant by a Clover quadrocopter in the Gazebo simulator: navigation by aruco tags, detection of overheating and panel contamination, light indication, and automatic reporting.
 
-![screenshots/Screenshot_2026-07-03_17-29-09.png]()
+![](https://github.com/Datamol94/Solar-farm-inspection/edit/main/screenshots/Screenshot_2026-07-03_17-29-09.png?raw=true)
 
 Автономная инспекция панелей на базе Clover, ROS и Gazebo
 Отборочный этап соревнования «Архипелаг 2026»
